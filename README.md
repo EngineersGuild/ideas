@@ -1,6 +1,6 @@
 # ideas
 
-アイデアリスト
+### アイデアリスト
 
 * [Issues · EngineersGuild/ideas](https://github.com/EngineersGuild/ideas/issues)
 
