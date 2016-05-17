@@ -3,6 +3,14 @@
 ### アイデアリスト
 
 * [Issues · EngineersGuild/ideas](https://github.com/EngineersGuild/ideas/issues)
+- 初級課題
+  - 一人で使うようなもの？
+- 中級課題
+  - 複数人で使うようなもの？
+- 上級課題
+  - クリティカルな制約があるもの？
+  - トランザクションでの制御が必要になるもの？
+  - 決済機能があるもの
 
 ### 必読
 
