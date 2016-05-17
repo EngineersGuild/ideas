@@ -1,6 +1,6 @@
 # ideas
 
-### アイデアリスト
+### 課題リスト
 
 * [Issues · EngineersGuild/ideas](https://github.com/EngineersGuild/ideas/issues)
 - 初級課題
